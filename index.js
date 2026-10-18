@@ -531,7 +531,7 @@ function BeeSwarmSimulator(DATA){
         {item:'swirledWax',req:[['hardWax',1],['softWax',2],['purplePotion',1],['royalJelly',15]]},
         {item:'causticWax',req:[['hardWax',2],['neonberry',5],['gumdrops',10],['royalJelly',25]]},
         {item:'turpentine',req:[['superSmoothie',3],['causticWax',3],['starJelly',5],['honeysuckle',50]]},
-        {item:'StarEgg',req:[['goldEgg',1],['swirledWax',1],['royalJelly',100]]},
+        {item:'starEgg',req:[['royalJelly',100]},
 
     ],windShrineDonations=[
 
